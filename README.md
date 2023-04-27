@@ -11,9 +11,12 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
 ## I'm Currently Learning:
 
  - Julia
+   - MIT Computational Thinking Course on YouTube
  - Developing portfolio projects and website to showcase some of the things I have learned that I currently don't have a project for:
    - Bioinformatics
    - Singnaling Network Models
+   - Data Viualization using XMGRACE, Inkscape, and visual dashboards
+ - Time Managment and how to motiviate myself to write a PhD dissertation in time.
 
 ## Ask Me About:
 
@@ -22,7 +25,7 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
  - How I transitioned from a mathematician to a biologist and how I am currently applying both of those backgrounds.
  
  ## Fun Fact
- - I'm two meters (6 foot 7 inches ) tall.
+ - I'm two meters (6 foot 7 inches) tall.
  
  ## How to Reach Me:
  📫 shayne.plourde@outlook.com
