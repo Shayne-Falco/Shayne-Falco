@@ -7,15 +7,15 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
  - Finishing my PhD dissertation with a denfense date of early July!
  - Writing a manuscrript draft of my work targeting a publication in Nature!!
  - Planning a Wedding in mid June!!!!!
+ - Developing portfolio projects and website to showcase some of the things I have learned that I currently don't have a project for:
+   - Bioinformatics
+   - Singnaling Network Models
+   - Data Viualization using XMGRACE, Inkscape, and visual dashboards
  
 ## I'm Currently Learning:
 
  - Julia
    - MIT Computational Thinking Course on YouTube
- - Developing portfolio projects and website to showcase some of the things I have learned that I currently don't have a project for:
-   - Bioinformatics
-   - Singnaling Network Models
-   - Data Viualization using XMGRACE, Inkscape, and visual dashboards
  - Time Managment and how to motiviate myself to write a PhD dissertation in time.
 
 ## Ask Me About:
