@@ -1,0 +1,275 @@
+
+\documentclass[letter,12pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.475in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.75in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-4pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-5pt}}
+  }
+}
+
+\newcommand{\resumeSubheadingtwo}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Shayne M. Plourde (He/Him/His)}}   &   Email: \href{mailto:}{plourde.5@osu.edu}\\
+  Columbus, OH ~~~~~~~~~ \href{https://www.linkedin.com/in/shayne-plourde-a9aa38189/}{\textcolor{blue}{www.linkedin.com/in/shayne-plourde-a9aa38189/}} & Mobile:~~~~~~~614-668-8782 \\
+\end{tabular*}
+
+%-----------Overview-----------------
+\vspace{-5pt}
+\section{\textbf{Overview}}  
+My training in Mathematics, Computer Science, and Biology allows me to investigate questions at the cutting edge of computational biology. This allows for a high level of interdisciplinary collaboration and efficient communication.
+%as seen by the PhD training in the lab of Dr. Adriana Dawes who has dual appointment in Mathematics and Molecular Genetics.
+I am exited to bringing new groundbreaking ideas to mathematical biology.
+\vspace{-5pt}
+\section{\textbf{Skills Summary}}
+	\resumeSubHeadingListStart
+    \resumeSubItem{Laboratory}{Confocal Microscopy, Image Analysis, Experimental Design, Scientific Writing}
+    \resumeSubItem{Model Organisms}{\it C. elegans, H. vulgaris, A. thaliana, S. cerevisiae, E. coli}
+    \resumeSubItem{Programming}{Googling, Documentation, Data Analysis, Parameterization, ODE/PDEs, OOP}
+	\resumeSubItem{Languages}{Most Experience: Python, Matlab, R; Has Written: C/C++, JAVA}
+	\resumeSubItem{Skills}{Management, Writing, LaTeX, Collaboration, Public Speaking, Bioinformatics, Independence }
+    %\resumeSubItem{Interests}{~~~~~~~~~~~~~~~Cycling, Game Development, Board and Roll Playing Games}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------Experience--------------%
+\section{\textbf{Projects}}
+
+
+  \resumeSubHeadingListStart
+    \resumeSubheading
+		{Mathematical and Biological Exploration of Cellular Patterning and Positioning}{}
+		\resumeItemListStart
+        %\resumeItem{Studied}
+          %{Biochemistry, Molecular Biology, and other graduate level biology courses with minimal formal biology training.}
+        %\resumeItem{Accomplished}
+         %{three rotation projects involving three different model organisms and no mathematical modeling.}
+        %\resumeItem{Drafted}
+         %{a mock biology grant for my candidacy that allowed me to become a Ph.D. candidate.}
+        \resumeItem{Developed}
+         {a \underline{PDE model} of \textit{C. elegans} embryo centrosomes to identify maturation asymmetries.}
+        \resumeItem{Acquired and Analyzed}
+         {microscopy data for use in \underline{paramatrizing} the PDE model. This formed the basis for understanding the mechanisms responsible for the observed asymmetries.}
+        %\resumeItem{Performed}
+         %{parameter searches to match the modeled equations to my microscopy data.}
+        %\resumeItem{Mentored}
+         %{\underline{microscopy protocols} and \underline{mathematical modeling concepts}. }%These students were able to successfully present their research in departmental rotation talks and seminars.}
+        
+        %\resumeItem{Managed} 
+        %{the response to a major flooding disaster on 12/24/2022. Catalogued losses to time and equipment of over \$5,000 and 80 hours of personal time. Corresponded with insurance and purchasing departments to replace equipment and supplies.}
+		\resumeItemListEnd
+
+ % \vspace{5pt}
+    \resumeSubheading
+		{Mathematical Modelling of Pollen Aperture Formation}{}
+		\resumeItemListStart
+            %\resumeItem{Studied}
+                %{the geometric patterning of apertures on the pollen of \textit{A. thaliana}. Wrote reports to my two co-advisors and with their feedback edited and presented to mathematicians and biologists.}
+            \resumeItem{Developed}
+                {a \underline{Turing model} of aperture positioning that recapitulated \textit{Arabidopsis thaliana} pollen surface patterning and predicted the behaviour of a novel mutant before \textit{in vivo}.}
+            %\resumeItem{Published}{\href{https://doi.org/10.1371/journal.pcbi.1006800}{\textcolor{blue}{results in PLOS-ONE}}}
+		\resumeItemListEnd
+%\vspace{5pt}
+    \resumeSubheading{Computational Model of Microcalcification Growth}{}
+    \resumeItemListStart
+        \resumeItem{Designed}
+          {\underline{an agent based} JAVA model of breast tumor growth. The fractal dimension of Microcalcifications grown in simulated tissue a determines metastatic.}
+        %\resumeItem{Reported}
+          %{results to an honors committee of 3 faculty advisors.}
+        %\resumeItem{Reported}
+          %{findings in a seminar made up of other undergraduates and faculty judges.}
+        %\resumeItem{Published}
+         %{\href{https://doi.org/10.1016/j.compbiomed.2016.06.020}{\textcolor{blue}{results in Computers in Biology and Medicine.}} Named one of the \underline{top articles published} in the journal that year.}
+      \resumeItemListEnd
+
+    
+
+\resumeSubHeadingListEnd
+
+%-----------Experience - Non Research --------------%
+\vspace{-5pt}
+\section{\textbf{Experience}}
+  \resumeSubHeadingListStart
+  \resumeSubheadingtwo
+		{Executive Board Leadership of OSU Cycling Team }{OSU}
+		{Secretary, President, Vice President and Social Media Chair}{}
+		\resumeItemListStart
+        \resumeItem{Informed}
+         {members of club activities and requirements with presentations and emails.}
+        %\resumeItem{Arranged}
+         %{for all racing members to have adequate accommodations and travel to and from 5 events per race season.}
+        \resumeItem{Directed}
+          {during the pandemic. I was able to \underline{quickly change plans} to keep members engaged. }
+        %\resumeItem{Recruited}
+          %{new members to the club each year including while clubs activities were on hold through 2021.}
+		\resumeItemListEnd
+    \resumeSubheadingtwo
+    {Graduate TA - Mathematics \& Biology Training}{OSU}
+    {Introductory Calculus and Biology Instructor}{}
+    \resumeItemListStart
+        \resumeItem{Lead}
+          {calculus recitation sections. Responsible for test development, grading, and teaching.}
+        \resumeItem{Managed}
+          {biology laboratory sections. Responsible for planning lessons, grading lab reports and exams.}
+      \resumeItemListEnd
+%\vspace{5pt}
+%    \resumeSubheading
+%		{Biology Training Experiance}{OSU}
+%		{Introductory Biology Laboratory Instructor}{Autumn 2018 \& 2019}
+%		\resumeItemListStart
+%        \resumeItem{Managed}
+%          {two laboratory sessions per semester where I was in charge of first year undergraduate students in their first laboratory class. Planned lessons to prepare the students for exams, Graded lab reports and exams}
+%		\resumeItemListEnd
+%\vspace{5pt}
+    
+
+\resumeSubHeadingListEnd
+
+%-----------Publications-----------------
+%\vspace{-5pt}
+%section{Publications}
+%\resumeSubHeadingListStart
+%\resumeSubItem{Undergraduate First Author Publication}{ \href{https://doi.org/10.1016/j.compbiomed.2016.06.020}{Computational growth model of breast microcalcification clusters in simulated mammographic environments} Plourde SM, Marin Z, Smith ZR, Toner BC, Batchelder KA, Khalil A. Comput Biol Med. 2016 }
+%\vspace{2pt}
+%\resumeSubItem{Masters First Author Publication}{ \href{https://doi.org/10.1371/journal.pcbi.1006800}{Changes in morphogen kinetics and pollen grain size are potential mechanisms of aberrant pollen aperture patterning in previously observed and novel mutants of Arabidopsis thaliana.} Plourde SM, Amom P, Tan M, Dawes AT, Dobritsa AA.  PLoS Comput Biol. 2019.}
+%\resumeSubHeadingListEnd
+%\vspace{-5pt}
+
+%-----------Awards-----------------
+\vspace{-10pt}
+\section{\textbf{Presentations / Publications}}
+\begin{description}[font=$\bullet$]
+%\item {\textbf{Scholarships:} UMaine Merit, Dean John E. Stewart Memorial, George \& Helen Weston}
+%\vspace{-5pt}
+%\item {Pi Mu Epsilon (Math Honors Society) Induction - 2014 }
+%\vspace{-5pt}
+%\item {\textbf{Funding Awards:} UMaine Merit, George \& Helen Weston, Rhodus Research Assistant, \underline{Pollen RCN Fellowship}}
+%\vspace{-5pt}
+%\item {\textbf{Talks:} Interdisciplinary Graduate Program Seminar 2022}
+
+\item {\textbf{Presentations:} \underline{SMB invited speaker 2023 (25 minute talk)}, IGP Seminar 2022 (\underline{15 minute talk}) \& 2021 (poster)}
+\vspace{-5pt}
+\item{\textbf{First Author Publications}: \href{https://doi.org/10.1371/journal.pcbi.1006800}{\textcolor{blue}{Pollen model in PLOS-ONE}}; \href{https://doi.org/10.1016/j.compbiomed.2016.06.020}{\textcolor{blue}{Microcalcification model in Comput Biol Med}} \underline{among top articles of 2016}. }
+
+\end{description}
+%
+%\vspace{-5pt}
+%\section{\textbf{Other Experience and Workshops}}
+%  \resumeSubHeadingListStart
+    %\resumeSubheading
+    %{Career Launch Cohort}{Columbus, OH (Virtual)}
+    %{Erdos Institute}{Spring 2023}
+    %\resumeItemListStart
+     %   \resumeItem{Participated in}
+      %    {4 week intensive Data Science Boot Camp. Mini-courses on Data Visualization, Software Engineering for Data Scientists, and Quantum Computing. Career explorations and preparations.}
+		%\resumeItemListEnd
+%\vspace{5pt}
+%	\resumeSubheading
+%    {Connecting Biological Data with Mathematical Models}{University of Tennessee}
+%    {National Institute for Mathematical and Biological Synthesis Workshop}{Summer 2017}
+%    \resumeItemListStart
+%        \resumeItem{Participated in}
+%          {lectures on techniques and modeling using specific data sets. Researchers from the mathematical and biological sciences were featured speakers. \underline{Received and gave feedback} on personal research projects.}
+%		\resumeItemListEnd
+\vspace{-5pt}
+    % \vspace{10pt}\textbf{\large{Community Experience}}
+%    \resumeSubheading
+%    {CURE TALC}{OSU}
+%    {Course-based Undergraduate Research Experiences Teaching Assistant Learning Community}{Autumn 2018}
+%    \resumeItemListStart
+%        \resumeItem{Participated}
+%          {in weekly planning meetings to \underline{set procedures} for current and future CURE courses.}
+%		\resumeItemListEnd
+
+%\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{\textbf{Education}}
+  \resumeSubHeadingListStart
+     \resumeSubheadingtwo
+      {The Ohio State University}{Columbus, Ohio}
+      {Ph.D. - Molecular, Cellular, Developmental Biology}{Expected Graduation: Aug 2023}
+    %\resumeSubheading
+      %{The Ohio State University}{Columbus, Ohio}
+      %\vspace{1mm}
+      
+      \textit{M.M.S. - Mathematical Biosciences}
+    \resumeSubheadingtwo
+      {The University of Maine}{Orono, Maine}
+      {B.A. - Mathematics minor Computer Science}{2015}
+      %{\scriptsize \textit{ \footnotesize{\newline\newline{}Graduated Magna Cum Laude and with High Honors }}}    
+    \resumeSubHeadingListEnd
+
+\end{document}
