@@ -14,9 +14,8 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
  
 ## I'm Currently Learning:
 
- - Julia
-   - MIT Computational Thinking Course on YouTube
  - Time Managment and how to motiviate myself to write a PhD dissertation in time.
+ - Python packages for data analysis and visualization.
 
 ## Ask Me About:
 
