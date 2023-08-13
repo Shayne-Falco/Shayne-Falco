@@ -4,9 +4,8 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
 
 ## I'm Currently Working on:
  
- - Finishing my PhD dissertation with a denfense date of early July!
+ - Finishing my PhD dissertation with a denfense date of early November!
  - Writing a manuscrript draft of my work targeting a publication in Nature!!
- - Planning a Wedding in mid June!!!!!
  - Developing portfolio projects and website to showcase some of the things I have learned that I currently don't have a project for:
    - Bioinformatics
    - Singnaling Network Models
@@ -19,7 +18,6 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University I have been g
 
 ## Ask Me About:
 
- - Why I decided it was a good idea to get married, defend, and pubish in the same semester.
  - How to deal with setback and troubles in graduate school.
  - How I transitioned from a mathematician to a biologist and how I am currently applying both of those backgrounds.
  
