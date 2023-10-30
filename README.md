@@ -1,4 +1,4 @@
-#### Shayne M. Plourde
+# Shayne M. Plourde
 ### Welcome to my Page!
 
 As a member of Dr. Adriana Dawes' lab at the Ohio State University, I have been given the unique opportunity to grow as an independent researcher in the fields of Molecular Genetics and Mathematics. We are given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We are also able to collaborate with others working on research projects from both the mathematical side and the biology side. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
