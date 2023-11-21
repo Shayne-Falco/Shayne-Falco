@@ -15,7 +15,6 @@ As a Ph.D. graduate and a current member of Dr. Adriana Dawes' lab at the Ohio S
  
 ## I'm Currently Learning:
 
- - Time management and how to motivate myself to write a PhD dissertation on time.
  - Python packages for data analysis and visualization.
 
 ## Ask Me About:
