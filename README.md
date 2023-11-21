@@ -1,11 +1,10 @@
 # Shayne M. Plourde
 ### Welcome to my Page!
 
-As a member of Dr. Adriana Dawes' lab at the Ohio State University, I have been given the unique opportunity to grow as an independent researcher in the fields of Molecular Genetics and Mathematics. We are given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We are also able to collaborate with others working on research projects from both the mathematical side and the biology side. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
+As a PhD graduate and a current member of Dr. Adriana Dawes' lab at the Ohio State University, I have been given the unique opportunity to grow as an independent researcher in the fields of Molecular Genetics and Mathematics. We are given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We are also able to collaborate with others working on research projects from both the mathematical side and the biology side. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
 
 ## I'm Currently Working on:
  
- - Finishing my PhD dissertation with a defense date of early November!
  - Writing a manuscript draft of my work targeting a publication in Nature!!
  - Developing portfolio projects and a website to showcase some of the things I have learned that I currently don't have a project for:
    - Bioinformatics
@@ -22,6 +21,7 @@ As a member of Dr. Adriana Dawes' lab at the Ohio State University, I have been 
  - How to deal with setbacks and troubles in graduate school.
  - Advice to transition out of academia and into industry. I haven't left academia yet, but I have lots of resources that have helped me make the decision to leave.
  - How I transitioned from a mathematician to a biologist and how I am currently applying both of those backgrounds.
+ - My dissertation.
  
  ## Fun Fact
  - I'm two meters (6 foot 7 inches) tall.
