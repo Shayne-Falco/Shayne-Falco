@@ -1,14 +1,16 @@
 # Shayne M. Plourde
 ### Welcome to my Page!
 
-As a PhD graduate and a current member of Dr. Adriana Dawes' lab at the Ohio State University, I have been given the unique opportunity to grow as an independent researcher in the fields of Molecular Genetics and Mathematics. We are given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We are also able to collaborate with others working on research projects from both the mathematical side and the biology side. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
+As a Ph.D. graduate and a current member of Dr. Adriana Dawes' lab at the Ohio State University, I have been given the unique opportunity to grow as an independent researcher in the fields of Molecular Genetics and Mathematics. We are given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We are also able to collaborate with others working on research projects from both the mathematical side and the biology side. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
 
 ## I'm Currently Working on:
  
  - Writing a manuscript draft of my work targeting a publication in Nature!!
  - Developing portfolio projects and a website to showcase some of the things I have learned that I currently don't have a project for:
    - Bioinformatics
-   - Signaling Network Models
+   - Computational Genomics
+   - Large Signaling Network Models
+   - Software Development
    - Data Visualization using XMGRACE, Inkscape, and visual dashboards
  
 ## I'm Currently Learning:
