@@ -1,7 +1,7 @@
 # Shayne M. Plourde
 ### Welcome to my Page!
 
-I am a postdoctoral scientist at Nationwide Children's Hospital in Columbus, Ohio. I work within the Institute of Genomic Medicine (IGM) 's variant detection team to try and find the genetic cause of diseases. I am excited by the chance to see my work pay off more directly than ever before.
+I am a postdoctoral scientist at Nationwide Children's Hospital in Columbus, Ohio. I work with Daniel Koboldt within the [Institute of Genomic Medicine](https://www.nationwidechildrens.org/specialties/institute-for-genomic-medicine) (IGM) variant detection team to try and find the genetic cause of diseases. I am excited by the chance to see my work pay off more directly than ever before.
 
 Previously, as a Ph.D. graduate of Dr. Adriana Dawes' lab at the Ohio State University, I grew as an independent Molecular Genetics and Mathematics researcher. We were given full ownership of our research projects and were required to develop novel protocols and methods to answer previously unthought-of questions. We can also collaborate with others working on research projects from both the mathematical and biology sides. This gives me great insight and allows for creative solutions to problems others may not even realize exist.
 
